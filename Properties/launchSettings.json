@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "LoadCS": {
+      "commandName": "Project",
+      "commandLineArgs": "--version --summary --dumpfile=file7.dmp",
+      "workingDirectory": "C:\\Users\\steve\\source\\repos\\LoadCS\\TestData"
+    }
+  }
+}
